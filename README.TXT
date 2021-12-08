@@ -1,30 +1,19 @@
-ÊµÑéÆ÷²Ä:
-	MiniSTM32F103¿ª·¢°åV3°æ±¾
+å®žéªŒå™¨æ:
+	MiniSTM32F103å¼€å‘æ¿V3ç‰ˆæœ¬
 	
-ÊµÑéÄ¿µÄ:
-	Ñ§Ï°¶¨Ê±Æ÷µÄPWM¹¦ÄÜ
+å®žéªŒç›®çš„:
+	å­¦ä¹ å®šæ—¶å™¨çš„PWMåŠŸèƒ½
 	
-Ó²¼þ×ÊÔ´:
-	1,DS0(Á¬½ÓÔÚPA8) 
-	2,¶¨Ê±Æ÷1(TIM1),Ê¹ÓÃTIM1µÄÍ¨µÀ1(CH1),¿ªÆô²¿·ÖÖØÓ³Éä,½«TIM1_CH1Êä³öµ½PA8.
-	´Ó¶øÊµÏÖPWMÊä³ö¿ØÖÆDS0ÁÁ¶È.
+ç¡¬ä»¶èµ„æº:
+	1,DS0(è¿žæŽ¥åœ¨PA8) 
+	2,å®šæ—¶å™¨1(TIM1),ä½¿ç”¨TIM1çš„é€šé“1(CH1),å¼€å¯éƒ¨åˆ†é‡æ˜ å°„,å°†TIM1_CH1è¾“å‡ºåˆ°PA8.
+	ä»Žè€Œå®žçŽ°PWMè¾“å‡ºæŽ§åˆ¶DS0äº®åº¦.
 	
-ÊµÑéÏÖÏó:
-	±¾ÊµÑé,DS0ÓÉ°µµ½ÁÁ,ÔÙÓÉÁÁµ½°µ,ÔÙÓÉ°µµ½ÁÁ,ÒÀ´ÎÑ­»·.
+å®žéªŒçŽ°è±¡:
+	æœ¬å®žéªŒ,DS0ç”±æš—åˆ°äº®,å†ç”±äº®åˆ°æš—,å†ç”±æš—åˆ°äº®,ä¾æ¬¡å¾ªçŽ¯.
 	
-×¢ÒâÊÂÏî:
-	ÎÞ.  
-
-
-					ÕýµãÔ­×Ó@ALIENTEK
-					2014-3-06
-					¹ãÖÝÊÐÐÇÒíµç×Ó¿Æ¼¼ÓÐÏÞ¹«Ë¾
-					µç»°£º020-38271790
-					´«Õæ£º020-36773971
-					¹ºÂò£ºhttp://shop62103354.taobao.com
-					http://shop62057469.taobao.com
-					¹«Ë¾ÍøÕ¾£ºwww.alientek.com
-					¼¼ÊõÂÛÌ³£ºwww.openedv.com
+æ³¨æ„äº‹é¡¹:
+	æ— .  
 					
 					
 void bianyuanshibie() 
